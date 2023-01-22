@@ -1,0 +1,24 @@
+issues:
+1. updateStudent
+is there more efficient way to do it?
+
+
+
+update of tested methods:
+1. getAllStudent
+2. addStudent
+3. getStudent
+4. deleteStudent
+5. updateStudent
+6. addSubject
+7. getSubject
+8. removeSubject
+9. setTotalClasses
+10.setClassesAttended
+
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+			<version>2.6.3</version>
+		</dependency>
